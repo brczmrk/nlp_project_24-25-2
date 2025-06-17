@@ -1,0 +1,76 @@
+### Identification & General Data
+- **Brand:** Mercedes-Benz
+- **Manufacturer:** Daimler Truck AG
+- **Model:** Actros, Supernova trim
+- **Type:** Heavy-duty commercial truck, semi-trailer tractor unit
+- **Year of Manufacture:** 2022
+- **Registration Document:** Hungarian vehicle registration certificate ("FORGALMI ENGEDÉLY")
+- **VIN:** Not visible (redacted)
+- **Weight Specifications:** Max 35000 kg gross weight, axle loads 7500 kg, 11500 kg, 9815 kg (various limits listed)
+- **Mileage:** 215,320.8 km (digital tachograph and dashboard)
+- **Engine Power:** KW value present in document (exact number not visible)
+- **Fuel Tank:** Metal diesel fuel tank, 24V system (Webasto heater 3.8 kW)
+- **Tire Brands and Models:**
+  - KMAX S GEN-2
+  - SP 446 (295/60 R22.5, load index 150/147 K)
+  - Goodyear RHD II 275/70R22.5
+  - GENERAL (significant wear)
+- **Tire Condition:** Generally serviceable, some worn (GENERAL tire)
+- **Dashboard:** Digital display, instrument cluster with tachometer, speedometer (max 120 km/h), gear selector stalk (D, N, R, M/A modes)
+- **Steering Wheel:** Mercedes-Benz branded, multifunction controls (cruise control, phone)
+- **Interior:** Sleeper cab with mattress and storage drawers, black fabric seats with armrests, passenger seat marked MAN (suggesting fleet variety), overhead compartments, beige and black trim
+- **Infotainment:** Touchscreen with Hungarian interface, media inputs (iPod, Bluetooth, USB, SD card)
+- **Electronic Parking Brake:** Present, engaged indicator visible
+- **Documents:** Hungarian registration certificate, technical specification plates (Daimler Truck AG)
+- **Key:** Black plastic head, no visible branding
+
+### Condition Assessment
+- **Exterior:**
+  - Minor dirt and dust accumulation typical for working trucks
+  - Small dents and scratches on bumper and body panels
+  - Cracks on mudguard and rear bumper, some panels misaligned or partially detached
+  - Minor wear and scuffs on steps and wheel arches
+  - Rear bumper cracked and partially loose
+  - Windshield has a significant crack and chip
+  - Fog lights and daytime running lights intact; some dents on bumper edge
+- **Tires and Wheels:**
+  - Generally good condition, some moderate wear (GENERAL tire)
+  - Lug nuts show minor rust but are secure
+  - No visible punctures or bulges
+- **Mechanical Components:**
+  - Drivetrain, transmission, transfer case, universal joints intact, no visible leaks
+  - Suspension system with leaf springs, airbags, shock absorbers structurally sound
+  - Electrical wiring and connectors intact, well secured
+- **Interior:**
+  - Seats in good condition, minor dust and fabric wear
+  - Sleeping area mattress slightly stained/discolored, no tears
+  - Dashboard, controls, infotainment system, and tachograph functional with minor dust/smudges
+  - Side mirror assembly missing reflective glass, housing intact
+  - Ceiling ventilation and control units intact, no damage
+- **Documents:**
+  - Registration and technical documents intact, legible, no damage
+- **Overall:**
+  - Vehicle shows typical wear from operational use
+  - No major mechanical faults visible
+  - Some body and glass damages require repair
+  - Interior well maintained with minor signs of use
+
+### Documentation & Accessories
+- **Documents Present:**
+  - Hungarian vehicle registration certificate ("FORGALMI ENGEDÉLY"), issued 2022-08-05, valid through 2024-07-29
+  - Manufacturer technical specification plates (Mercedes-Benz / Daimler Truck AG)
+  - Webasto Thermo Comfort SE heater label
+- **Vehicle Keys:**
+  - Black plastic key with metal blade, no visible branding
+- **Inspection Materials:**
+  - Digital tachograph unit (Mercedes-Benz branded), functional
+- **Accessories:**
+  - Electronic parking brake switch
+  - Cup holders in center console
+  - Overhead storage compartments in cabin
+  - Sleeping bunk with mattress and storage drawers
+- **Missing Items:**
+  - Side mirror glass missing on one side mirror assembly
+- **Not Visible / Not Mentioned:**
+  - Service book or maintenance records
+  - Spare keys or additional accessories

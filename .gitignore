@@ -1,0 +1,6 @@
+.venv
+dataset
+.env
+*.7z
+annotations.md
+testing
